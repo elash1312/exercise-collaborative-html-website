@@ -1,3 +1,15 @@
 body{
-    background: #BDBDBD;
+    background: white;
+}
+.rounded-circle{
+    max-width: 75%;
+    height: auto;
+}
+.first-heading{
+    margin-top: 3rem;
+    margin-left: 9rem;
+}
+.second-heading{
+    margin-top: 3rem;
+    margin-right: 9rem;
 }
